@@ -29,7 +29,7 @@ File > Plih file backup yang akan direstore > Restore
 
 ![Restore](Restore.jpg)
  
-Setelah itu akan muncul tampilan seperti dibawah, lalu klik restore dan yes
+Setelah itu akan muncul tampilan seperti dibawah, lalu klik restore dan klik yes
 
 ![Yes](Yes.jpg)
  
