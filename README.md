@@ -1,10 +1,9 @@
-# Backup and Restore pada MikroTik
- 
+# Melakukan Backup dan Me-restore Konfigurasi pada MikroTik:
 A. Backup konfigurasi MikroTik\
  1. Membackup konfigurasi\
   Buka tab Files > Backup
 
-![Backup](Backup.png)
+![Backup](Backup.jpg)
   
   Nama file backup akan digenerate secara otomatis oleh router berdasarkan tanggal dan jam backup dilakukan.\
 
@@ -16,23 +15,23 @@ A. Backup konfigurasi MikroTik\
  2. Memindahkan file backup ke direktori lokal\
 Jika anda menggunakan Windows maka tinggal drag & drop saja file backup dari router ke direktori lokal
 
-![Copy](Copy.png)
+![Copy](Copy.jpg)
  
 
 B. Restore konfigurasi ke MikroTik\
  1. Upload file backup ke penyimpanan router\
 File > Upload > cari file backup yang akan direstore
 
-![Upload](Upload.png)
+![Upload](Upload.jpg)
  
  2. Me-restore file backup\
 File > Plih file backup yang akan direstore > Restore
 
-![Restore](Restore.png)
+![Restore](Restore.jpg)
  
 Setelah itu akan muncul tampilan seperti dibawah, lalu klik restore dan yes
 
-![Yes](Yes.png)
+![Yes](Yes.jpg)
  
 Setelah itu MikroTik akan melakukan reboot 
 
